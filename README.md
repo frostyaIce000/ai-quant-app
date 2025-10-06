@@ -81,7 +81,7 @@ flowchart TD
 ## Installation
 ```bash
 # Clone repository
-git clone https://github.com/yllvar/futures-quant-agents.git
+git clone https://github.com/frostyalce000/futures-quant-agents.git
 
 # Install dependencies
 pnpm install
